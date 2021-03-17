@@ -1,4 +1,4 @@
-package com.pyrax.ProductListing;
+package com.pyrax.ProductListing.components;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.button.ButtonVariant;

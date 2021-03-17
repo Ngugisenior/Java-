@@ -1,5 +1,6 @@
 package com.pyrax.ProductListing;
 
+import com.pyrax.ProductListing.components.ProductForm;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.Route;
 
